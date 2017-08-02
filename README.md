@@ -1,6 +1,8 @@
+Created in a couple of hours.
+
 Playable at http://gamejolt.com/games/boringclicker/273699
 
-An incremental game that uses the GameJolt API to:
+A very barebones incremental game that uses the GameJolt API to:
 
 * Allow saving from the cloud
 * Show leaderboards
