@@ -1,1 +1,0 @@
-Add a GJAPISettings.asset from the Unity API for GameJolt download.
